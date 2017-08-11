@@ -1,7 +1,8 @@
 Respa-ui
 ========
 
-[![Circle CI](https://circleci.com/gh/fastmonkeys/respa-ui.svg?style=svg)](https://circleci.com/gh/fastmonkeys/respa-ui)
+[![Build status](https://travis-ci.org/City-of-Helsinki/tilapankki.svg)](https://travis-ci.org/City-of-Helsinki/tilapankki)
+[![codecov](https://codecov.io/gh/City-of-Helsinki/tilapankki/branch/master/graph/badge.svg)](https://codecov.io/gh/City-of-Helsinki/tilapankki)
 
 User interface for the City of Helsinki [varaamo.hel.fi](https://varaamo.hel.fi/) resource reservation service. Uses the [respa API](http://api.hel.fi/respa/v1/).
 
